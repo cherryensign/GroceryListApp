@@ -8,7 +8,7 @@ Add button is on Top Right Corner in AppBar and to delete the entry, simply swip
 ![Image alt text](https://github.com/cherryensign/GroceryListApp/blob/main/screenshots/Grocery.jpg?raw=true)
 
 
-This Project is a part of my Internship/ Senior Design Project at my college Vellore Institute of Technolgy - Andhra Pradesh, India (VIT-AP)
+This Project is a part of the Flutter and Dart Course on Udemy that I Completed.
 
 
 - 👋 Hi, I’m Mithilesh Ghadge
