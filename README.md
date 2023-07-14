@@ -1,6 +1,8 @@
-A Chatbot Application Developed in FLutter Based on ChatGPT 3.0.
-Consists features of ChatGPT where you can have humam like converstions with the bot.
-Image Gneration is also available where You can request the bot to generate image as per your needs.
+A Grocery List Application
+An Application to create a list of all necessary grocery items. 
+The UI is developed in Flutter and Firebase is used for storing the data.
+Each entry consists of a name, category and quantity. 
+Add button is on Top Right Corner in AppBar and to delete the entry, simply swipe the entry left or right.
 
 
 ![Image alt text](https://github.com/cherryensign/FBOT/blob/c31ffdfcc3678f8b50539eaddfeb4505915f5ed1/screenshots/Chat%20Bot.png?raw=true)
