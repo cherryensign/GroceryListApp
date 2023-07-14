@@ -5,7 +5,7 @@ Each entry consists of a name, category and quantity.
 Add button is on Top Right Corner in AppBar and to delete the entry, simply swipe the entry left or right.
 
 
-![Image alt text](https://github.com/cherryensign/FBOT/blob/c31ffdfcc3678f8b50539eaddfeb4505915f5ed1/screenshots/Chat%20Bot.png?raw=true)
+![Image alt text](https://github.com/cherryensign/GroceryListApp/blob/main/screenshots/Grocery.jpg?raw=true)
 
 
 This Project is a part of my Internship/ Senior Design Project at my college Vellore Institute of Technolgy - Andhra Pradesh, India (VIT-AP)
